@@ -19,8 +19,9 @@ def index():
 
 @main.route('/sources/<id>')
 def articles(id):
-
-
+	'''
+	view articles page
+	'''
 	articles = get_articles(id)
 	title = f'NH | {id}'
 
