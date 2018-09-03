@@ -9,7 +9,9 @@ This is a web appliction that displays a list of news sources across the world. 
 The user can see various news and be able to select the ones they prefer, see ann news sources, see also image decription and time news was created
 They can finally click on an article and read it all
 
+## Link
 
+* To view the project on Heroku just click the link https://new-s.herokuapp.com/
 
 ### Prerequisites
 
