@@ -15,11 +15,11 @@ They can finally click on an article and read it all
 
 You need the following to start working on the project on your local computer:
 
-A text  Editor
-Python version 3.6
-Flask
-Pip
-virtualenv
+-A text  Editor
+-Python version 3.6
+-Flask
+-Pip
+-virtualenv
 
 
 ## Getting my project
