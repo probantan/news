@@ -19,7 +19,7 @@ A text  Editor
 Python version 3.6
 Flask
 Pip
-virtualenv
+
 
 
 ## Getting my project
