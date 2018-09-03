@@ -39,7 +39,6 @@ virtualenv
 * Boostrap
 * Flask
 
-
 ### License
-Copyright (c) {year} **{List of contributors or company name}**
+Copyright (c) {year} **{Morings School}**
   
