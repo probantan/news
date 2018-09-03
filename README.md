@@ -37,7 +37,7 @@ virtualenv
 
 * Python v3.6
 * Boostrap
-* Flask
+
 
 ### License
 Copyright (c) {year} **{Morings School}**
