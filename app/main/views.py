@@ -17,7 +17,7 @@ def index():
 
 	return render_template('index.html',title = title, sources = sources,sports_sources = sports_sources,technology_sources = technology_sources,entertainment_sources = entertainment_sources)
 
-@main.route('/sources/
+@main.route('/sources/<id>')
 def articles(id):
 	'''
 	view articles page
