@@ -6,7 +6,9 @@ from ..models import Sources
 #views
 @main.route('/')
 def index():
-	
+	'''
+	view root page function that returns the index the page and its data
+	'''
 	sources = get_sources('business')
 	sports_sources = get_sources('sports')
 	technology_sources = get_sources('technology')
